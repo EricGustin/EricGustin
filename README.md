@@ -1,8 +1,8 @@
-### Hi! I'm Eric
+### Hi! I'm Eric 👋
 
 ---
 
-### Latest Medium Articles
+### Check out my latest Medium Articles 📚
 <!-- BLOG-POST-LIST:START -->
 - [The Four Sorting Algorithms You Need To Know](https://medium.com/swlh/the-four-sorting-algorithms-you-need-to-know-9dd14f6ba13b?source=rss-4452fe59e597------2)
 - [Swift 5: How to set up your initial ViewController without a Storyboard in Xcode](https://medium.com/@ericgustin/swift-5-how-to-set-up-your-initial-viewcontroller-without-a-storyboard-in-xcode-cd5615182c9d?source=rss-4452fe59e597------2)
