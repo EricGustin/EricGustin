@@ -1,9 +1,9 @@
 **Currently**
 - Bridging the gap
-- Founding Engineer @ Arcade AI
+- Founding Engineer @ Arcade.dev
 
 **Previously**
-- Sofware Engineer @ Microsoft in Azure Hyperscale Networking
+- Software Engineer @ Microsoft in Azure Networking
 - AI/ML Engineer @ Hewlett Packard Enterprise in HPC
 
 **Some links**
